@@ -1,6 +1,7 @@
 # PCB-drill Controller
 A simple program for controlling an electric motor.  
 Written in Arduino IDE 1.8.1 for __AVR ATTiny13__  
+Using [MicroCore](https://github.com/MCUdude/MicroCore).  
 I recommend using the code for reference purposes only.
 
 ##
